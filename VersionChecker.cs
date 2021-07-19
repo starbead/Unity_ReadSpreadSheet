@@ -18,7 +18,7 @@ public class SeverModel
 
 public class VersionChecker : MonoBehaviour
 {
-    public const string version_url = "https://docs.google.com/spreadsheets/d/176aDNjy12qck3mV-SwlWkANSYG0mK3miKUBSDv3b09U/edit#gid=0";
+    public const string version_url = ""; // Read googleSpreadSheet url
 
     private string _urlformarket;
 
